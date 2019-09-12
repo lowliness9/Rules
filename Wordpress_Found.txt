@@ -1,2 +1,0 @@
-#wordpress found
-/wp-login.php    {status=200}    {tag="wp-submit""}    {root_only}
