@@ -1,5 +1,5 @@
 # Rules
-规则收集
+rules
 # BBScan 1.4 #
 
 A vulnerability scanner focus on scanning large number of targets in short time with a minimal set of rules.
